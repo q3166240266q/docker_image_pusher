@@ -7,4 +7,6 @@ xhofe/alist:latest
 python:alpine3.19
 redis:6.0.8-buster
 mysql:8.4.3
+ubuntu:noble
+
 
