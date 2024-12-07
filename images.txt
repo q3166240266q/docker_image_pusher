@@ -10,6 +10,6 @@ mysql:8.4.3
 ubuntu:noble
 tomcat:9.0.97-jdk17-temurin-noble
 centos:centos7.9.2009
-
+openjdk:8
 
 
